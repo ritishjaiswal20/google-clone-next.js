@@ -43,7 +43,10 @@ function Header() {
             Search
           </button>
         </form>
-        <Avatar className="ml-auto" url="https://coaching.papareact.com/ai9" />
+        <Avatar
+          className="ml-auto"
+          url="https://cdn-icons.flaticon.com/png/128/2202/premium/2202112.png?token=exp=1647112079~hmac=b7555f6c903ffe8d79f76de9e6570fcf"
+        />
       </div>
 
       <HeaderOptions />
